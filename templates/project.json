@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "title": "",
+  "revision": "draft-001",
+  "stage": "research",
+  "exportAuthorized": false,
+  "source": {"path": "source/narration.txt", "sha256": null},
+  "format": {"width": null, "height": null, "fps": null},
+  "durationSeconds": null,
+  "constraints": [],
+  "assets": [],
+  "speakers": [],
+  "scenes": [],
+  "evidence": []
+}

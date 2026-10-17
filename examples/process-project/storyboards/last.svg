@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720">
+<rect width="960" height="720" fill="#faf9f4"/>
+<g font-family="sans-serif" fill="#17302b">
+<text x="80" y="80" font-size="18">虚构教学示例 · 不代表实际设备参数</text>
+<text x="80" y="155" font-size="42" font-weight="700">过滤过程 · 连续构图分镜</text>
+<text x="80" y="210" font-size="24">03  留下完整结果</text>
+<rect x="80" y="270" width="220" height="220" rx="18" fill="#e8edeb"/><text x="190" y="395" text-anchor="middle" fill="#17302b" font-size="42">入口</text><rect x="360" y="270" width="220" height="220" rx="18" fill="#e8edeb"/><text x="470" y="395" text-anchor="middle" fill="#17302b" font-size="42">滤芯</text><rect x="640" y="270" width="220" height="220" rx="18" fill="#12766b"/><text x="750" y="395" text-anchor="middle" fill="#ffffff" font-size="42">出口</text>
+<path d="M305 380 H350 M585 380 H630" stroke="#17302b" stroke-width="4"/>
+<path d="M340 372 L350 380 L340 388 M620 372 L630 380 L620 388" fill="none" stroke="#17302b" stroke-width="4"/>
+<text x="80" y="570" font-size="34" font-weight="700">从出口流出</text>
+<text x="80" y="625" font-size="22">结构与位置保持，信息焦点依次转移。</text>
+</g></svg>

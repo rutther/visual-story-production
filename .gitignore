@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+workspace/
+dist/
+*.mp4
+*.mov
+*.mp3
+*.wav

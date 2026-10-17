@@ -1,0 +1,4 @@
+interface:
+  display_name: "动态叙事制作方法"
+  short_description: "从内容和真实参考出发，先画分镜，再制作可编辑动画并实际检查与续做"
+  default_prompt: "使用 $visual-story-production 处理当前材料与任务，保存分镜、可编辑实现、检查证据和续做状态。"

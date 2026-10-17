@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "title": "过滤过程：虚构教学分镜",
+  "revision": "example-001",
+  "stage": "storyboard",
+  "exportAuthorized": false,
+  "source": {
+    "path": "source/narration.txt",
+    "sha256": "2063562035b629b1609d78bdd6c062357f721803e6bb4a1727a526eaddc7bbc0"
+  },
+  "format": {
+    "width": 960,
+    "height": 720,
+    "fps": null
+  },
+  "durationSeconds": 12,
+  "constraints": [
+    "概念图，不提供真实设备效率、流量或尺寸",
+    "12秒为设计示例，没有合成声音或运动验收"
+  ],
+  "assets": [],
+  "speakers": [],
+  "scenes": [
+    {
+      "id": "process-001",
+      "start": 0,
+      "duration": 12,
+      "sourceRange": [
+        0,
+        19
+      ],
+      "informationTask": "输入-过程-输出",
+      "status": "storyboard",
+      "assetIds": [],
+      "keyframes": [
+        {
+          "path": "storyboards/first.svg",
+          "localTime": 0,
+          "role": "首"
+        },
+        {
+          "path": "storyboards/middle.svg",
+          "localTime": 6,
+          "role": "中"
+        },
+        {
+          "path": "storyboards/last.svg",
+          "localTime": 11.5,
+          "role": "尾"
+        }
+      ],
+      "cues": [
+        {
+          "at": 0,
+          "meaning": "建立入口"
+        },
+        {
+          "at": 4,
+          "meaning": "解释过滤"
+        },
+        {
+          "at": 8,
+          "meaning": "出口结果"
+        }
+      ],
+      "quotes": []
+    }
+  ],
+  "evidence": []
+}
