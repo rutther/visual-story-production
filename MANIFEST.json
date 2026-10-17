@@ -2,6 +2,7 @@
   "version": "2.0.0",
   "algorithm": "sha256",
   "files": {
+    ".gitattributes": "7508d9ca0bf5a640a5319b29295b1cea4475f9fb0b4b1e8979638731ae848410",
     ".github/workflows/validate.yml": "5c8895624b10b25766f613a6a71b25cb3470748b8e831822f1faaf0c42b93f98",
     ".gitignore": "0faefd503231d265309beb783a29ab34c24f89155b4cb567151b03d78c4db2bb",
     "ACCEPTANCE.md": "2d20857bdb8c9595f500851ed6e63c1885254159b57a38d6a5cd446da2f2b168",
