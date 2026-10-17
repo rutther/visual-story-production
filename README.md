@@ -43,6 +43,8 @@ python scripts/validate_bundle.py
 
 本目录可作为仓库根目录。`SKILL.md` 保持在名为 `visual-story-production` 的目录中；克隆到其他目录名时，安装为技能前重命名对应文件夹。仓库只包含方法、模板、原创示例和脚本。
 
-已提供 `.gitignore` 和可选 GitHub Actions 检查工作流。未替你创建仓库或上传。公开前可按你的分发意愿增加 LICENSE；[许可说明](LICENSE-NOTICE.md)没有擅自授予第三方素材的再分发权。
+公开仓库：[rutther/visual-story-production](https://github.com/rutther/visual-story-production)。已提供忽略规则、跨平台文件完整性设置和 GitHub Actions 检查工作流。
+
+本仓库原创的方法文档、提示词、模板、示例和脚本采用 [MIT 许可证](LICENSE)，允许使用、修改、分发和商用，须保留版权及许可声明。外部资料的权利边界见[许可说明](LICENSE-NOTICE.md)。
 
 版本：2.0.0 · 2026-10-18。官方格式依据：[Agent Skills specification](https://agentskills.io/specification)。实现工具是可替换选项，使用前核对维护者当前文档。

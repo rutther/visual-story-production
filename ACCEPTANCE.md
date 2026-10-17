@@ -14,7 +14,7 @@
 | 兼容其他harness | PORTABILITY三种加载方式、适配指令、能力对照、单文件手册 | 无硬绑定工具名称或原会话；未声称全部harness实测 |
 | 可作为skill使用 | SKILL.md、agents/openai.yaml | skill-creator格式校验返回Skill is valid |
 | 能继续做而非只有原则 | 初始化工具、STATE/REFERENCE/STORYBOARD/REVIEW/LESSON、项目字段、可编辑组件契约 | 包含接手、生产、检查、续做步骤与操作配方 |
-| 便于GitHub发布 | README、版本记录、许可说明、忽略规则、可选CI、哈希清单 | 仓库目录已准备；没有创建或上传远程仓库 |
+| 便于GitHub发布 | README、版本记录、MIT许可证、忽略规则、CI、哈希清单 | 已发布至 rutther/visual-story-production；后续检查以 GitHub Actions 对应提交为准 |
 | 一份或一套文件 | FULL-GUIDE合并正文与模板；ZIP包含脚本与SVG | 完整迁移优先ZIP；单文件用于阅读和指导 |
 
 ## 实际执行的检查
@@ -37,7 +37,7 @@ python scripts/project.py check examples/process-project
 
 ## 尚未做、也不冒充已做的事项
 
-- 没有在另一台真实电脑、其他harness、macOS或Linux上运行；提供的CI工作流未在GitHub触发。
+- 未在其他harness中实测。GitHub托管的Windows、macOS、Linux环境已执行包检查与Python测试；不等同于这些平台上的完整视频制作验收。
 - 没有新做新闻影片、MP4、实际配音或高级动画样片。原制作任务已取消，本次产物是方法包。
 - 没有重新看完全部历史参考、付费课或逐条验证历史链接。新项目使用外部API和素材时重新核对当前文档、版本、来源与许可。
 - 本包迁移方法，不迁移模型本身的视觉/音频能力或原项目资产；不能保证所有模型得到相同审美结果。
